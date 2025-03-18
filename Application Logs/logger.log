@@ -1,0 +1,7 @@
+2025-03-18 14:16:40,219 - INFO - INFO - Método __init__: Configurando conexão com o host mongodb.
+2025-03-18 14:16:40,224 - INFO - INFO - Método connect: Conexão com banco de dados estabelecida.
+2025-03-18 14:16:40,225 - INFO - INFO - Método get_collection: Obter collection do banco mongodb.
+2025-03-18 14:16:40,225 - INFO - INFO - Método get_collection: Obter collection do banco mongodb.
+2025-03-18 14:16:40,267 - INFO - INFO - Método get_all_appointed_hours: Requisição para obter todos os apontamentos de horas.
+2025-03-18 14:16:40,287 - INFO - INFO - Método get_all_pplaning: Requisição para obter todos os planejamentos de projetos.
+2025-03-18 14:16:40,311 - INFO - INFO - Método close: Fechando a conexão com o banco de dados mongodb.
