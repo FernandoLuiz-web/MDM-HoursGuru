@@ -5,3 +5,66 @@
 2025-03-18 14:16:40,267 - INFO - INFO - Método get_all_appointed_hours: Requisição para obter todos os apontamentos de horas.
 2025-03-18 14:16:40,287 - INFO - INFO - Método get_all_pplaning: Requisição para obter todos os planejamentos de projetos.
 2025-03-18 14:16:40,311 - INFO - INFO - Método close: Fechando a conexão com o banco de dados mongodb.
+2025-03-18 14:16:55,035 - INFO - INFO - Método __init__: Configurando conexão com o host mongodb.
+2025-03-18 14:16:55,038 - INFO - INFO - Método connect: Conexão com banco de dados estabelecida.
+2025-03-18 14:16:55,039 - INFO - INFO - Método get_collection: Obter collection do banco mongodb.
+2025-03-18 14:16:55,039 - INFO - INFO - Método get_collection: Obter collection do banco mongodb.
+2025-03-18 14:16:55,110 - INFO - INFO - Método get_all_appointed_hours: Requisição para obter todos os apontamentos de horas.
+2025-03-18 14:16:55,135 - INFO - INFO - Método get_all_pplaning: Requisição para obter todos os planejamentos de projetos.
+2025-03-18 14:16:55,137 - INFO - INFO - Método close: Fechando a conexão com o banco de dados mongodb.
+2025-03-18 14:31:16,947 - INFO - INFO - Método __init__: Configurando conexão com o host mongodb.
+2025-03-18 14:31:16,972 - INFO - INFO - Método connect: Conexão com banco de dados estabelecida.
+2025-03-18 14:31:16,973 - INFO - INFO - Método get_collection: Obter collection do banco mongodb.
+2025-03-18 14:31:16,973 - INFO - INFO - Método get_collection: Obter collection do banco mongodb.
+2025-03-18 14:31:17,065 - INFO - INFO - Método get_all_appointed_hours: Requisição para obter todos os apontamentos de horas.
+2025-03-18 14:31:17,112 - INFO - INFO - Método get_all_pplaning: Requisição para obter todos os planejamentos de projetos.
+2025-03-18 14:31:17,114 - INFO - INFO - Método close: Fechando a conexão com o banco de dados mongodb.
+2025-03-18 15:20:24,122 - INFO - INFO - Método __init__: Configurando conexão com o host mongodb.
+2025-03-18 15:20:24,135 - INFO - INFO - Método connect: Conexão com banco de dados estabelecida.
+2025-03-18 15:20:24,136 - INFO - INFO - Método get_collection: Obter collection do banco mongodb.
+2025-03-18 15:20:24,136 - INFO - INFO - Método get_collection: Obter collection do banco mongodb.
+2025-03-18 15:20:24,198 - INFO - INFO - Método get_all_appointed_hours: Requisição para obter todos os apontamentos de horas.
+2025-03-18 15:20:24,235 - INFO - INFO - Método get_all_pplaning: Requisição para obter todos os planejamentos de projetos.
+2025-03-18 15:20:24,237 - INFO - INFO - Método close: Fechando a conexão com o banco de dados mongodb.
+2025-03-18 15:22:45,542 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 15:22:45,551 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 15:24:26,456 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 15:24:26,474 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 15:24:40,551 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 15:24:40,569 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 15:25:01,719 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 15:25:01,745 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 15:27:32,265 - INFO - INFO - Método __init__: Configurando conexão com o host mongodb.
+2025-03-18 15:27:32,275 - INFO - INFO - Método connect: Conexão com banco de dados estabelecida.
+2025-03-18 15:27:32,276 - INFO - INFO - Método get_collection: Obter collection do banco mongodb.
+2025-03-18 15:27:32,277 - INFO - INFO - Método get_collection: Obter collection do banco mongodb.
+2025-03-18 15:27:32,359 - INFO - INFO - Método get_all_appointed_hours: Requisição para obter todos os apontamentos de horas.
+2025-03-18 15:27:32,417 - INFO - INFO - Método get_all_pplaning: Requisição para obter todos os planejamentos de projetos.
+2025-03-18 15:27:32,419 - INFO - INFO - Método close: Fechando a conexão com o banco de dados mongodb.
+2025-03-18 15:33:44,002 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 15:33:44,007 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 15:33:53,908 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 15:33:53,924 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 15:38:07,752 - INFO - INFO - Método __init__: Configurando conexão com o host mongodb.
+2025-03-18 15:38:07,764 - INFO - INFO - Método connect: Conexão com banco de dados estabelecida.
+2025-03-18 15:38:07,765 - INFO - INFO - Método get_collection: Obter collection do banco mongodb.
+2025-03-18 15:38:07,766 - INFO - INFO - Método get_collection: Obter collection do banco mongodb.
+2025-03-18 15:38:07,820 - INFO - INFO - Método get_all_appointed_hours: Requisição para obter todos os apontamentos de horas.
+2025-03-18 15:38:07,847 - INFO - INFO - Método get_all_pplaning: Requisição para obter todos os planejamentos de projetos.
+2025-03-18 15:38:07,848 - INFO - INFO - Método close: Fechando a conexão com o banco de dados mongodb.
+2025-03-18 17:10:36,247 - INFO - INFO - Método __init__: Configurando conexão com o host mongodb.
+2025-03-18 17:10:36,252 - INFO - INFO - Método connect: Conexão com banco de dados estabelecida.
+2025-03-18 17:10:36,252 - INFO - INFO - Método get_collection: Obter collection do banco mongodb.
+2025-03-18 17:10:36,252 - INFO - INFO - Método get_collection: Obter collection do banco mongodb.
+2025-03-18 17:10:36,282 - INFO - INFO - Método get_all_appointed_hours: Requisição para obter todos os apontamentos de horas.
+2025-03-18 17:10:36,301 - INFO - INFO - Método get_all_pplaning: Requisição para obter todos os planejamentos de projetos.
+2025-03-18 17:10:36,302 - INFO - INFO - Método close: Fechando a conexão com o banco de dados mongodb.
+2025-03-18 17:10:36,357 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 17:10:36,370 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 17:11:20,879 - INFO - INFO - Método __init__: Configurando conexão com o host mongodb.
+2025-03-18 17:11:20,886 - INFO - INFO - Método connect: Conexão com banco de dados estabelecida.
+2025-03-18 17:11:20,886 - INFO - INFO - Método get_collection: Obter collection do banco mongodb.
+2025-03-18 17:11:20,887 - INFO - INFO - Método get_collection: Obter collection do banco mongodb.
+2025-03-18 17:11:20,944 - INFO - INFO - Método get_all_appointed_hours: Requisição para obter todos os apontamentos de horas.
+2025-03-18 17:11:20,966 - INFO - INFO - Método get_all_pplaning: Requisição para obter todos os planejamentos de projetos.
+2025-03-18 17:11:20,967 - INFO - INFO - Método close: Fechando a conexão com o banco de dados mongodb.
